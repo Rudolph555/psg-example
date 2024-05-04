@@ -1,0 +1,6 @@
+print("1. Agarra la escoba con las manos")
+print("2. Arrastra la cabeza de la escoba por el suelo con movimientos cortos y deliberados")
+print("3. Comienza en los bordes de la habitación y trabaja hacia el centro. ")
+print("4. Haz una pausa de vez en cuando para limpiar la escoba. ")
+print("5. Recoge la pila que has estado formando con una pala para deshacerte de ella.")
+print("6. Usa la técnica del puente levadizo para solucionar las líneas molestas dejadas por la pala.")
